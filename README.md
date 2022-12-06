@@ -1,1 +1,1 @@
-A project based approach to learning python programming language
+A project based approach to learning the python programming language

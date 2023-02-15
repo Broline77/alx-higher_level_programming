@@ -13,3 +13,4 @@
 * [MySQL Cheat Sheet](https://intellipaat.com/mediaFiles/2019/02/SQL-Commands-Cheat-Sheet.pdf?US)
 * [MySQL 8.0 SQL Statement Syntax](dev.mysql.com/doc/refman/8.0/en/sql-statements.html)
 * [installing MySQL in Ubuntu 20.04](https://phoenixnap.com/kb/install-mysql-ubuntu-20-04)
+* [CS50](https://www.youtube.com/watch?v=zrCLRC3Ci1c)
